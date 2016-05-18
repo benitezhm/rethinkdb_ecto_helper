@@ -1,0 +1,4 @@
+RethinkdbEctoHelper
+===================
+
+** TODO: Add description **

@@ -1,0 +1,2 @@
+defmodule RethinkdbEctoHelper do
+end
